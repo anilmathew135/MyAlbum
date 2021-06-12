@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">MyAlbum</string>
+  <string name="albums_title">My Albums</string>
+  <string name="albumImageView_desc">Album Image</string>
+  <string name="error_title">Sorry!</string>
+  <string name="error_desc">We are currently experiencing problem with our internal systems. Please try again later.</string>
+  <string name="error_ok">OK</string>
+  <string name="empty_list_message">No Data Found!</string>
+</resources>
