@@ -1,7 +1,7 @@
 # MyAlbum
 This is a small android project that make use of a public API for fetching a list of Album and display Albums.
 
-The application includes:
+## The application includes:
   1. Displays albums list sorted by title.
   2. Albums is persisted for offline viewing.
   3. Thumbnail images for each album for easy recognition.
